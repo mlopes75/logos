@@ -4,10 +4,15 @@
 
 Aplicação minimalista desenvolvida em **Flutter** e **Dart** com suporte bilíngue (PT/EN), áudio contemplativo e reflexões baseadas em um cronómetro de alta precisão [mlopes75/msab].
 
-## 📥 Download (Android)
+## 🌐 Aceder ou Instalar
 
-* **APK:** Disponível diretamente na secção **Releases** do repositório: [Transferir APK na secção Releases](https://github.com) [mlopes75/msab].
+* **Abrir direto no navegador (Web / iPhone / PC):** [mlopes75.github.io/msab](https://mlopes75.github.io/msab/)
+  
+* **Download APK (Android):** [Transferir APK na secção Releases](https://github.com) [mlopes75/msab].
+
 * **Instalação:** Baixe o ficheiro `.apk` no telemóvel, abra-o e autorize a opção **"Instalar aplicações desconhecidas"** no navegador, caso seja solicitado [mlopes75/msab].
+].
+
 
 ## ✨ Funcionalidades e Tecnologias
 
