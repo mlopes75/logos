@@ -1,0 +1,13 @@
+{
+  "app_title": "Moment of Wisdom",
+  "present_time": "PRESENT TIME",
+  "instruction_running": "Take a deep breath and press the button when you feel the moment",
+  "instruction_captured": "Moment gathered at {}",
+  "btn_collect": "Gather Reflection",
+  "btn_new": "New Moment",
+  "tooltip_mute": "Mute frequency",
+  "tooltip_unmute": "Unmute frequency",
+  "tooltip_lang": "Switch language",
+  "fallback_title": "Value today.",
+  "fallback_body": "Do not let anxiety about tomorrow steal the peace of this moment."
+}

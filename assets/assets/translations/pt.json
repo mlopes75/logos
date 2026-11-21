@@ -1,0 +1,13 @@
+{
+  "app_title": "Instante de Sabedoria",
+  "present_time": "TEMPO PRESENTE",
+  "instruction_running": "Respira fundo e prime o botão quando sentires o momento",
+  "instruction_captured": "Instante recolhido em {}",
+  "btn_collect": "Recolher Reflexão",
+  "btn_new": "Novo Instante",
+  "tooltip_mute": "Silenciar frequência",
+  "tooltip_unmute": "Ativar frequência",
+  "tooltip_lang": "Mudar idioma",
+  "fallback_title": "Valoriza o dia de hoje.",
+  "fallback_body": "Não deixes que a ansiedade pelo amanhã te roube a paz deste momento."
+}
