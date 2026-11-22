@@ -46,3 +46,21 @@
     a { color: var(--accent); }
   </style>
 </head>
+  <body>
+  <div class="container">
+    <div id="content">A carregar informações...</div>
+  </div>
+  <script src="https://jsdelivr.net"></script>
+  <script>
+    fetch('https://githubusercontent.com')
+      .then(res => res.text())
+      .then(md => {
+        document.getElementById('content').innerHTML = marked.parse(md);
+      })
+      .catch(() => {
+        document.getElementById('content').innerHTML = 'Erro ao carregar o README.';
+      });
+  </script>
+</body>
+</html>
+
