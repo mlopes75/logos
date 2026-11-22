@@ -94,7 +94,7 @@
       right: 0;
     }
   </style>
-  <script id="splash-screen-script">
+   <script id="splash-screen-script">
     function removeSplashFromWeb() {
       document.getElementById("splash")?.remove();
       document.getElementById("splash-branding")?.remove();
@@ -102,9 +102,28 @@
     }
   </script>
   <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+  <!-- Dados Estruturados para o Google (Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "LOGOS — Reflexões Serenas e Aforismos",
+    "url": "https://github.io",
+    "description": "Aplicação minimalista dedicada à pausa contemplativa com 1444 reflexões e paisagem sonora generativa em 136,1 Hz.",
+    "applicationCategory": "LifestyleApplication",
+    "operatingSystem": "Web, Android",
+    "inLanguage": ["pt", "en"],
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
+    }
+  }
+  </script>
 </head>
 <body>
-  <!-- Conteúdo semântico acessível para motores de busca (Google) e leitores de ecrã -->
+  <!-- Conteúdo semântico acessível para o Google e leitores de ecrã -->
   <main style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;">
     <h1>LOGOS — Reflexões Serenas e Aforismos</h1>
     <p>O tempo qualitativo do momento presente (Kairós). Aplicação minimalista dedicada à pausa contemplativa, com suporte bilíngue em Português e Inglês.</p>
@@ -115,8 +134,6 @@
       <li>Suporte Bilíngue: Alternância instantânea entre Português e Inglês.</li>
     </ul>
   </main>
-
-  <!-- (O restante dos scripts do Flutter que já estão no seu body continuam aqui embaixo) -->
 
   <picture id="splash">
       <source srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x" media="(prefers-color-scheme: light)">
