@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
   <url>
-    <loc>https://github.io</loc>
-    <priority>1.0</priority>
+    <loc>https://mlopes75.github.io/logos/</loc>
   </url>
   <url>
-    <loc>https://github.ioinfo.html</loc>
-    <priority>0.8</priority>
+    <loc>https://github.io</loc>
   </url>
 </urlset>
+
