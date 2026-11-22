@@ -1,6 +1,6 @@
 {
-    "name": "msab",
-    "short_name": "msab",
+    "name": "logos",
+    "short_name": "logos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
