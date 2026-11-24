@@ -52,9 +52,9 @@
     <div id="content">A carregar informações...</div>
   </div>
 
-    <script src="https://jsdelivr.net"></script>
+    <script src="https://jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    fetch('https://githubusercontent.com')
+    fetch('https://githubusercontent.com/mlopes75/logos/main/README.md')
       .then(res => res.text())
       .then(md => {
         document.getElementById('content').innerHTML = marked.parse(md);
