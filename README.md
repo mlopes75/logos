@@ -16,7 +16,8 @@ Aplicação minimalista desenvolvida em **Flutter** e **Dart** dedicada à pausa
   👉 [mlopes75.github.io/logos](https://mlopes75.github.io/logos/)
 
 * **Download APK (Android):**  
-  👉 [Transferir a última versão na secção Releases](https://github.com)
+  👉 [Transferir a última versão na secção Releases](https://github.com/mlopes75/logos/releases
+)
 
 * **Como instalar no Android:**  
   1. Transfira o ficheiro `.apk` na página de *Releases*.
@@ -61,7 +62,8 @@ A minimalist application built with **Flutter** and **Dart** dedicated to contem
   👉 [mlopes75.github.io/logos](https://mlopes75.github.io/logos/)
 
 * **Download APK (Android):**  
-  👉 [Download the latest version from Releases](https://github.com)
+  👉 [Download the latest version from Releases](https://github.com/mlopes75/logos/releases
+)
 
 * **How to install on Android:**  
   1. Download the `.apk` file from the *Releases* page.
